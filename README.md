@@ -1,3 +1,6 @@
+docs: update README.md
+
+
 # Jungle Pathing
 
 <div align="center" style="display: flex; justify-content: center;">
@@ -54,10 +57,12 @@ Passos para Execução
 - Ajuste as visualizações conforme necessário para explorar os dados.
 - Você também pode abrir o Dashboard pronto localizado na pasta 'dashboard'.
 
+## Documentação
+
+Você encontrará um **relatório detalhado** documentando todo o projeto na pasta 'relatory'.
+
 ### Resultados
 O projeto foi concluído com sucesso, com exceção de uma limitação na visualização do jungle pathing. 
 O gráfico gerado apresenta valores de coordenadas baixos, resultando em uma visualização inadequada do trajeto do jungler no mapa. 
 Este problema pode estar relacionado à extração incorreta dos valores de posição a partir da API da Riot Games.
 Uma oportunidade incrível de aprendizado e experiência.
-
-
