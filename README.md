@@ -1,6 +1,3 @@
-docs: update README.md
-
-
 # Jungle Pathing
 
 <div align="center" style="display: flex; justify-content: center;">
