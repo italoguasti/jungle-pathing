@@ -63,3 +63,6 @@ O projeto foi concluído com sucesso, com exceção de uma limitação na visual
 O gráfico gerado apresenta valores de coordenadas baixos, resultando em uma visualização inadequada do trajeto do jungler no mapa. 
 Este problema pode estar relacionado à extração incorreta dos valores de posição a partir da API da Riot Games.
 Uma oportunidade incrível de aprendizado e experiência.
+
+![dashboard](https://github.com/user-attachments/assets/f8127073-5b18-4f01-9b69-59d8cf0de25a)
+
