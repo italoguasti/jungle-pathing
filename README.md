@@ -17,9 +17,13 @@ Coletar os IDs das partidas recentes jogadas pelo jogador.
 Selecionar e extrair detalhes de uma partida específica.
 Processar os dados da partida para extrair informações detalhadas do jungler.
 Gerar uma visualização do jungle pathing (com limitações discutidas nos resultados).
-2. **Dashboard Power BI**
+<br>
+
+3. **Dashboard Power BI**
 O dashboard foi desenvolvido para visualizar as principais métricas de desempenho do jungler durante a partida. Os dados são apresentados de forma clara e visualmente atraente, utilizando gráficos de barras, KPIs, e outras visualizações.
-3. **Dados
+<br>
+
+4. **Dados
 .csv/.xlsx**: Arquivo contendo os dados organizados e transformados para serem importados no Power BI.
 
 ## Para Executar
