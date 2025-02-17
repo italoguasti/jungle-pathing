@@ -1,13 +1,11 @@
 # Jungle Pathing
-
+<br>
 <div align="center" style="display: flex; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/883042f1-d2c5-46f3-b0e4-84d9bc253340" style="width: 15%;">  
     <img src="https://github.com/user-attachments/assets/f8964242-f77b-426e-a08b-d7e022d326c2" style="width: 15%;">
 </div>
 <br>
 
-Este repositório o apresenta a solução desenvolvida para um desafio proposto pela **FURIA**. O desafio consistiu em
-acessar a **API da Riot Games** para selecionar e analisar um jogo de SoloQ, focando no mapeamento
+Este repositório consiste em acessar a **API da Riot Games** para selecionar e analisar um jogo de SoloQ, focando no mapeamento
 do ”Jungle Pathing” de um jogador específico que atuou como jungler.
 
 ## Estrutura do Projeto
